@@ -1,0 +1,20 @@
+{
+  "name": "bluetooth-profile-utils",
+  "version": "1.0.0",
+  "description": "A collection of utils for parsing data received from Bluetooth devices and for connecting to devices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Giles Roadnight",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roaders/bluetooth-profile-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Roaders/bluetooth-profile-utils/issues"
+  },
+  "homepage": "https://github.com/Roaders/bluetooth-profile-utils#readme"
+}
